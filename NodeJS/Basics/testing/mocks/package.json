@@ -1,0 +1,15 @@
+{
+  "name": "mocks",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "node __tests__/file.js"
+  },
+  "engines": {
+    "node": ">= 20"
+  },
+  "author": "marcos freitas",
+  "license": "MIT",
+  "description": ""
+}
